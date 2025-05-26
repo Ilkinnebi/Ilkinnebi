@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ilkin 👋
 
-<!--
-**Ilkinnebi/Ilkinnebi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Linux System Administrator based in Azerbaijan.
 
-Here are some ideas to get you started:
+🌱 I'm currently working at **Modenis MMC (Emanat)**  
+🔧 Tools I use: Linux, Nginx, Apache, HAProxy, Keepalived, Bash, Tomcat  
+📁 Most of my repositories are practical tasks and server setups.  
+📫 Contact me: inebiyev618@gmail.com | +994 51 757 05 57  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Linux Administration (CentOS, Ubuntu)
+- Web Servers: Nginx, Apache HTTPD
+- Load Balancing: HAProxy, Keepalived
+- Scripting: Bash
+- Containers: Podman, Docker (basic)
+- System Monitoring and Troubleshooting
