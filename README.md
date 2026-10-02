@@ -2,10 +2,10 @@
 
 I'm a passionate Linux System Administrator based in Azerbaijan.
 
-🌱 I'm currently working at **Modenis MMC (Emanat)**  
+🌱 I'm currently working at **Azercosmos**  
 🔧 Tools I use: Linux, Nginx, Apache, HAProxy, Keepalived, Bash, Tomcat  
 📁 Most of my repositories are practical tasks and server setups.  
-📫 Contact me: inebiyev618@gmail.com | +994 51 757 05 57  
+📫 Contact me: inebiyev618@gmail.com  
 
 ## 🛠️ Skills
 - Linux Administration (CentOS, Ubuntu)
